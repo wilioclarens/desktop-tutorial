@@ -27,8 +27,8 @@ if(isset($_POST['enviar'])){
     <head>
         <title> conexao </title>
         <meta Charset="utf-8">
-</head>
-<body>
+    </head>
+    <body>
 
         <form method="POST" action="" align="center">
             <input type="text" name="name" autocomplete="off">
@@ -37,3 +37,6 @@ if(isset($_POST['enviar'])){
             <br/>
             <input type="submit" name="enviar">
         </form>
+     </body>
+    </html>
+    
